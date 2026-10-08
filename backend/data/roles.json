@@ -1,0 +1,58 @@
+{
+  "Machine Learning Engineer": {
+    "must": ["Python", "Machine Learning", "SQL", "Statistics", "Git", "Deep Learning", "Deployment"],
+    "weights": {
+      "Python": 0.9,
+      "Machine Learning": 1.0,
+      "SQL": 0.7,
+      "Statistics": 0.7,
+      "Git": 0.6,
+      "Deep Learning": 0.8,
+      "Deployment": 0.8
+    }
+  },
+  "Frontend Developer": {
+    "must": ["HTML", "CSS", "JavaScript", "React", "Git", "APIs"],
+    "weights": {
+      "HTML": 0.8,
+      "CSS": 0.8,
+      "JavaScript": 1.0,
+      "React": 1.0,
+      "Git": 0.6,
+      "APIs": 0.7
+    }
+  },
+  "Backend Developer": {
+    "must": ["Python", "SQL", "APIs", "Git", "Docker", "System Design"],
+    "weights": {
+      "Python": 0.9,
+      "SQL": 0.8,
+      "APIs": 1.0,
+      "Git": 0.6,
+      "Docker": 0.7,
+      "System Design": 0.8
+    }
+  },
+  "Data Scientist": {
+    "must": ["Python", "SQL", "Statistics", "Machine Learning", "Pandas", "Visualization"],
+    "weights": {
+      "Python": 1.0,
+      "SQL": 0.9,
+      "Statistics": 0.9,
+      "Machine Learning": 0.9,
+      "Pandas": 0.8,
+      "Visualization": 0.7
+    }
+  },
+  "Software Developer": {
+    "must": ["JavaScript", "Python", "Git", "SQL", "APIs", "Data Structures"],
+    "weights": {
+      "JavaScript": 0.8,
+      "Python": 0.8,
+      "Git": 0.7,
+      "SQL": 0.7,
+      "APIs": 0.8,
+      "Data Structures": 0.9
+    }
+  }
+}
